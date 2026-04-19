@@ -60,6 +60,7 @@
 
 ## &#xecfa; 个人技能
 
+- C1驾照
 - 掌握多种编程语言，包括 C 语言 、Python 、HTML 、CSS 、JavaScript 、汇编语言等，以及 SQL 操作语言、Git 命令。
 - 了解 OSI 七层模型及 TCP、IP 协议。
 - 掌握 Office 三件套、Xmind 等办公软件，在其选修课程中获得 77 分。
