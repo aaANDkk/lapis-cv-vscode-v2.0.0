@@ -1,6 +1,6 @@
 # 秦航航
 
-> <span alt="icon">&#xe60f;</span> `(+86)139-8344-5899`&emsp;&emsp; <span alt="icon">&#xe7ca;</span> `2574071239@qq.com`&emsp;&emsp;
+> <span alt="icon">&#xe60f;</span> `(+86)139-8344-5899`&emsp;&emsp; <span alt="icon">&#xe7ca;</span> `hanghangqin055@gmail.com`&emsp;&emsp;
 
 <!-- > <span class="icon">&#xe600;</span> [octocat](https://github.com/octocat)-->
 
@@ -61,10 +61,9 @@
 ## &#xecfa; 个人技能
 
 - C1驾照
-- 掌握多种编程语言，包括 C 语言 、Python 、HTML 、CSS 、JavaScript 、汇编语言等，以及 SQL 操作语言、Git 命令。
-- 了解 OSI 七层模型及 TCP、IP 协议。
+- 掌握多种编程语言，包括 C 语言 、Python 、HTML 、CSS 、JavaScript 、汇编语言等，以及 SQL 操作语言、Git 命令。了解 OSI 七层模型及 TCP、IP 协议。
 - 掌握 Office 三件套、Xmind 等办公软件，在其选修课程中获得 77 分。
 
 ## &#xe673; 个人评价
 
-本人态度负责，工作认真，具有良好的沟通能力和团队精神，能快速融入团队；具有较强的学习能力和执行能力，具有社会责任感；精力旺盛，热爱生活。
+本人态度负责，工作认真，具有良好的沟通能力和团队精神，能快速融入团队；具有较强的学习能力和执行能力，具有社会责任感；
